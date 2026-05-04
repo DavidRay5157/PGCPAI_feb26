@@ -24,7 +24,7 @@ public class ExceptionDemo {
 
 
         try{
-            String str = "abc";
+            String str = "null";
             int res = 100/3;
             System.out.println(res);
             System.out.println(str.length());
